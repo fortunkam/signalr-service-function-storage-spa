@@ -1,0 +1,1 @@
+# terraform environment designed to work with the c# function example from https://github.com/Azure-Samples/signalr-service-quickstart-serverless-chat
